@@ -36,8 +36,9 @@ with an cell-free protein expression system.
 
 9. Centrifuge at 11000 RPM for 30 s (tabletop centrifuge works well)
 
-10. Carefully remove the mineral oil, take 10 μL of the centrifuge
-    buffer (where the vesicles have been formed)
+10. Carefully remove the mineral oil, taking 10 μL of the centrifuge
+    buffer (where the vesicles have been formed).  Make sure to use a
+    new tip to avoid contamination.
 
 11. Add 10 μL of solution (where vesicles hopefully \"live\") to 10 μL
     of final buffer (50 mM HEPES + 300 mM sucrose, pH 8), careful not
@@ -51,7 +52,9 @@ with an cell-free protein expression system.
 14. Add 10 μL of the final solution to the inside chamber and seal
     with cover slip
 
-15. Observe on microscope
+15. Observe on microscope.  Sample images of what you should see:
+
+![Sample microscope images](txtl-liposome-microscope.jpg)
 
 # Credits
 
