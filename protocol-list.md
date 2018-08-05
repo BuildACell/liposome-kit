@@ -39,7 +39,7 @@ work in this direction is descirbed in [Yu et al, J Biosci Bioeng,
 Yomo and collaborators have used this method in dozens of
 publications.  The protocol is available in
 [Fujii et al, 2014](https://www.nature.com/articles/nprot.2014.107).
-There is also a [JOVE article](https://www.jove.com/video/55282).
+There is also a [JoVE article](https://www.jove.com/video/55282).
 
 ## Spencer et al,JOVE,2013
 The Encapsulation of Cell-free Transcription and Translation Machinery in Vesicles for the Construction of Cellular Mimics 
