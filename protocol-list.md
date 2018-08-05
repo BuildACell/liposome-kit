@@ -1,12 +1,12 @@
 # Table of liposome protocols
 
-| Reference                             | Size/type    | Comments |
-| ----------                            | :-------:    | -------- |
-| [Ishikawa et al, FEBS Letters, 2004]  | Unknown      |          |
-| [Danelon et al, Angew. Chem. Int. Ed, 2012] |        |          |
-| [Oberholzer et al, Biochem Biophys Res Commun, 1999] | |        |
-| [Fujii et al, Nature Protocols, 2014] |  1 to 100 um |          |
-| [Spencer et al, JoVE, 2013]           |              |          |
+| Reference                                            | Size/type   | Comments                                |
+| ----------                                           | :-------:   | --------                                |
+| [Ishikawa et al, FEBS Letters, 2004]                 | Unknown     | Rehydration of liposome "cake"          |
+| [Danelon et al, Angew. Chem. Int. Ed, 2012]          |             | Lipid film on beads                     |
+| [Oberholzer et al, Biochem Biophys Res Commun, 1999] |             | Classic hydration of lipid film in vial |
+| [Fujii et al, Nature Protocols, 2014]                | 1 to 100 um | Droplet transfer method                 |
+| [Spencer et al, JoVE, 2013]                          |             |                                         |
 
 # Short summaries and links
 
@@ -37,8 +37,8 @@ work in this direction is descirbed in [Yu et al, J Biosci Bioeng,
 
 ## Fujii et al, Nature Protocols, 2014
 
-Yomo and collaborators have used this method in dozens of
-publications.  The protocol is available in
+This paper describes th droplet transfer method.  Yomo and collaborators have 
+used this method in dozens of publications.  The protocol is available in
 [Fujii et al, 2014](https://www.nature.com/articles/nprot.2014.107).
 There is also a [JoVE article](https://www.jove.com/video/55282).
 
