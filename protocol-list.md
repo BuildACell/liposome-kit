@@ -6,6 +6,7 @@
 | [Danelon et al, Angew. Chem. Int. Ed, 2012] |        |          |
 | [Oberholzer et al, Biochem Biophys Res Commun, 1999] | |        |
 | [Fujii et al, Nature Protocols, 2014] |  1 to 100 um |          |
+| [Spencer et al, JoVE, 2013]           |              |          |
 
 # Short summaries and links
 
@@ -17,7 +18,7 @@ and collaborators in [Ishikawa et al, FEBS Letters,
 based on a [previous
 paper](https://www.sciencedirect.com/science/article/pii/S0168365999000474).
 
-## [Danelon et al, Angew. Chem. Int. Ed, 2012]
+## Danelon et al, Angew. Chem. Int. Ed, 2012
 
 A method for hydration of a lipid film stratified over glass beads has
 been described by [Danelon et al, Angew. Chem. Int. Ed,
@@ -44,6 +45,5 @@ There is also a [JoVE article](https://www.jove.com/video/55282).
 ## Spencer et al, JoVE, 2013
 
 The Encapsulation of Cell-free Transcription and Translation Machinery in Vesicles for the Construction of Cellular Mimics 
-A simple method for the preparation of vesicles , the encapsulation of transcription and translation machinery, and monitoring of protein production.
-Link:https://www.jove.com/video/51304/the-encapsulation-cell-free-transcription-translation-machinery
-The video protocol is based on Sunami et al., Synthesis of Functional Proteins Within Liposomes. Methods Mol. Biol. (2010).
+
+This paper presents a simple method for the preparation of vesicles, the encapsulation of transcription and translation machinery, and monitoring of protein production. A [JoVE paper and video](https://www.jove.com/video/51304/the-encapsulation-cell-free-transcription-translation-machinery) is available, based on the paper by Sunami et al., Synthesis of Functional Proteins Within Liposomes. *Methods Mol. Biol.* (2010).
