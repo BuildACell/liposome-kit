@@ -41,7 +41,7 @@ publications.  The protocol is available in
 [Fujii et al, 2014](https://www.nature.com/articles/nprot.2014.107).
 There is also a [JOVE article](https://www.jove.com/video/55282).
 
-## Spencer et al.,JOVE,2013
-The Encapsulation of Cell-free Transcription and Translation Machinery in Vesicles for the Construction of Cellular Mimics | Protocol
-A simple methods for the preparation of vesicles a, the encapsulation of transcription and translation machinery, and the monitoring of protein production.The protocol is based on :
-Sunami, T., Matsuura, T., Suzuki, H., Yomo, T. Synthesis of Functional Protiens Within Liposomes. Methods Mol. Biol. 607, 243-256 (2010). 
+## Spencer et al,JOVE,2013
+The Encapsulation of Cell-free Transcription and Translation Machinery in Vesicles for the Construction of Cellular Mimics | 
+A simple method for the preparation of vesicles , the encapsulation of transcription and translation machinery, and the monitoring of protein production.The protocol is based on this paper:
+Sunami et al.,2010 Synthesis of Functional Proteins Within Liposomes. Methods Mol. Biol. 
