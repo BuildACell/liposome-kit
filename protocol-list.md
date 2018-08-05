@@ -42,6 +42,7 @@ publications.  The protocol is available in
 There is also a [JoVE article](https://www.jove.com/video/55282).
 
 ## Spencer et al, JoVE, 2013
+
 The Encapsulation of Cell-free Transcription and Translation Machinery in Vesicles for the Construction of Cellular Mimics 
 A simple method for the preparation of vesicles , the encapsulation of transcription and translation machinery, and monitoring of protein production.
 Link:https://www.jove.com/video/51304/the-encapsulation-cell-free-transcription-translation-machinery
