@@ -39,5 +39,11 @@ work in this direction is descirbed in [Yu et al, J Biosci Bioeng,
 Yomo and collaborators have used this method in dozens of
 publications.  The protocol is available in
 [Fujii et al, 2014](https://www.nature.com/articles/nprot.2014.107).
-There is also a [JOVE article](https://www.jove.com/video/55282).
+There is also a [JoVE article](https://www.jove.com/video/55282).
 
+## Spencer et al, JoVE, 2013
+
+The Encapsulation of Cell-free Transcription and Translation Machinery in Vesicles for the Construction of Cellular Mimics 
+A simple method for the preparation of vesicles , the encapsulation of transcription and translation machinery, and monitoring of protein production.
+Link:https://www.jove.com/video/51304/the-encapsulation-cell-free-transcription-translation-machinery
+The video protocol is based on Sunami et al., Synthesis of Functional Proteins Within Liposomes. Methods Mol. Biol. (2010).
