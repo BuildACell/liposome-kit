@@ -47,3 +47,4 @@ The Encapsulation of Cell-free Transcription and Translation Machinery in Vesicl
 A simple method for the preparation of vesicles , the encapsulation of transcription and translation machinery, and monitoring of protein production.
 Link:https://www.jove.com/video/51304/the-encapsulation-cell-free-transcription-translation-machinery
 The video protocol is based on Sunami et al., Synthesis of Functional Proteins Within Liposomes. Methods Mol. Biol. (2010).
+Paola
