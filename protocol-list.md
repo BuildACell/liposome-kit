@@ -47,3 +47,5 @@ There is also a [JoVE article](https://www.jove.com/video/55282).
 The Encapsulation of Cell-free Transcription and Translation Machinery in Vesicles for the Construction of Cellular Mimics 
 
 This paper presents a simple method for the preparation of vesicles, the encapsulation of transcription and translation machinery, and monitoring of protein production. A [JoVE paper and video](https://www.jove.com/video/51304/the-encapsulation-cell-free-transcription-translation-machinery) is available, based on the paper by Sunami et al., Synthesis of Functional Proteins Within Liposomes. *Methods Mol. Biol.* (2010).
+
+Richard Murray
