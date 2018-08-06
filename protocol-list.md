@@ -48,3 +48,4 @@ A simple method for the preparation of vesicles , the encapsulation of transcrip
 Link:https://www.jove.com/video/51304/the-encapsulation-cell-free-transcription-translation-machinery
 The video protocol is based on Sunami et al., Synthesis of Functional Proteins Within Liposomes. Methods Mol. Biol. (2010).
 Paola
+
