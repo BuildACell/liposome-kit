@@ -57,3 +57,12 @@ This is a [protocol](https://www.nature.com/protocolexchange/protocols/3815#/rel
 The modified version can be found at [OpenWetWare](https://openwetware.org/wiki/Preparation_of_cell-sized_water-in-oil_droplets) The protocol was used by Malin Jonsson, Miroslav Gasparek (summer 2017 interns), and Zoila Jurado (PhD student at Caltech) to express the GFP in the liposomes in the summer of 2017 in the Murray Lab at Caltech.
 
 Aaron Engelhart (University of Minnesota)
+Richard Murray (Caltech)
+Jan Gregrowicz
+Zoila JURADO (Caltech)
+Akshay Maheshwari (Stanford)
+Neha (Northwestern)
+Milena Popovic (Blue Marble Space)
+Kazhito Tabata
+Joseph Heili, University of Minnesota
+Paola
