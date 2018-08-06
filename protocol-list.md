@@ -56,5 +56,6 @@ Preparation of cell-sized water-in-oil droplets for *in vitro* reconstitution of
 This is a [protocol](https://www.nature.com/protocolexchange/protocols/3815#/related-articles) for the encapsulation of the TX-TL cell-free protein expression system in the liposomes based on the paper by Miyazaki, M, Chiba, M, Ishiwata, S. Preparation of cell-sized water-in-oil droplets for *in vitro* reconstitution of biological processes in cellular compartments. (2015) Nature. DOI: 10.1038/protex.2015.029
 The modified version can be found at [OpenWetWare](https://openwetware.org/wiki/Preparation_of_cell-sized_water-in-oil_droplets) The protocol was used by Malin Jonsson, Miroslav Gasparek (summer 2017 interns), and Zoila Jurado (PhD student at Caltech) to express the GFP in the liposomes in the summer of 2017 in the Murray Lab at Caltech.
 
+Milena Popovic (Blue Marble Space)
 Kazhito Tabata
 Joseph Heili, University of Minnesota
