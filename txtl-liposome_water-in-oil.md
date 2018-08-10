@@ -11,6 +11,7 @@ Neha Kama (Northwestern),
 Akshay Maheshwari (Stanford),
 Richard Murray (Caltech),
 Milena Popovic (Blue Marble Space),
+Pasquale Stano (University of Salento),
 Kazhito Tabata (University of Tokyo),
 Paola Torre (University of Pennsylvania).
 
@@ -24,17 +25,17 @@ with an cell-free protein expression system.
 The preparation of liposomes using w/o emulsions as template requires
 four steps:
 
-### **Step 0**: Deposition of a thin lipid film in a glass vial
+### Step 0: Deposition of a thin lipid film in a glass vial
 
 #### Materials:
 
 * Glass vials (any will do, but we use [2mL Fisherbrand Class B Clear
   Glass Threaded vials: cat #:
-  03-339-21A](https://www.fishersci.com/shop/products/fisherbrand-class-b-clear-glass-threaded-vials-with-closures-packaged-separately-12/p-204738](https://www.fishersci.com/shop/products/fisherbrand-class-b-clear-glass-threaded-vials-with-closures-packaged-separately-12/p-204738)
+  03-339-21A](https://www.fishersci.com/shop/products/fisherbrand-class-b-clear-glass-threaded-vials-with-closures-packaged-separately-12/p-204738)
 
 * POPC in chloroform: [https://avantilipids.com/product/850457](https://avantilipids.com/product/850457) 
 
-* Lyss-Rhod-PE:
+* Liss-Rhod-PE:
   [https://avantilipids.com/product/810150](https://avantilipids.com/product/810150)
 
 * Cholesterol in chloroform (25 mg/ml): https://avantilipids.com/product/700000
@@ -44,13 +45,13 @@ four steps:
   for use with lipids and chloroform
   [https://www.hamiltoncompany.com/products/syringes-and-needles/general-syringes/gastight-syringes](https://www.hamiltoncompany.com/products/syringes-and-needles/general-syringes/gastight-syringes)
 
-### **Step 1**: Preparation of the oil containing lipids
+### Step 1: Preparation of the oil containing lipids
 
 #### Materials:
 
 * Mineral oil: [https://us.vwr.com/store/product/7422728/mineral-oil-light-white-high-purity-grade](https://us.vwr.com/store/product/7422728/mineral-oil-light-white-high-purity-grade)
 
-### **Step 2**: Self-assembly of the Liposomes by centrifugation
+### Step 2: Self-assembly of the Liposomes by centrifugation
 
 #### Materials:
 
@@ -58,13 +59,11 @@ four steps:
 
 * 100 mM HEPES, 200 mM glucose pH 8
 
-* 2M Sucrose Stock
-
 * 100 mM HEPES + 250 mM glucose, pH 8
 
 * 100 mM HEPES, 200 mM sucrose pH 8
 
-### **Step 3**: Microscopy Visualization
+### Step 3: Microscopy Visualization
 
 #### Materials:
 
@@ -79,25 +78,25 @@ to to form the lipid-in-mineral oil solution. Makes 6 samples with
 accurate measurement. Each vial will have ~ 15 mg of lipid with 0.1
 mol % of 18:1 Lyss-Rho-PE.
 
-1. Create lipid master mix in a glass beaker 
+1. Create lipid master mix in a glass beaker.  One of two methods may be used:
 
-    a. POPC/Lyss-Rhod-PE 
+    * POPC/Lyss-Rhod-PE 
 
-        i. Add  4 mL (100 mg) of POPC in chloroform (25 mg/ml) 
+        a. Add  4 mL (100 mg) of POPC in chloroform (25 mg/ml) 
 
-        ii. Add 200 uL (0.2 mg) of Lyss-Rho-PE in chloroform (1 mg/mL) 
+        b. Add 200 uL (0.2 mg) of Lyss-Rho-PE in chloroform (1 mg/mL) 
 
-        iii. Swirl gently until all POPC is dissolved and color is homogeneous.
+        c. Swirl gently until all POPC is dissolved and color is homogeneous.
 
-    b. POPC/Cholesterol/Lyss-Rhod-PE 
+    * POPC/Cholesterol/Lyss-Rhod-PE 
 
-        i. Add 2.668 mL (66.7 mg) of POPC in chloroform (25 mg/ml) 
+        a. Add 2.668 mL (66.7 mg) of POPC in chloroform (25 mg/ml) 
 
-        ii. Add 1.332 mL (33.3 mg) of Cholesterol in chloroform (25 mg/ml) 
+        b. Add 1.332 mL (33.3 mg) of Cholesterol in chloroform (25 mg/ml) 
 
-        iii. Add 200 uL (0.2 mg) of Lyss-Rho-PE in chloroform (1 mg/mL) 
+        c. Add 200 uL (0.2 mg) of Lyss-Rho-PE in chloroform (1 mg/mL) 
 
-        iv. Swirl gently until all POPC is dissolved and color is homogeneous.
+        d. Swirl gently until all POPC is dissolved and color is homogeneous.
 
 2. Aliquot 700 uL of POPC/Cholesterol/Lyss-Rhod-PE Chloroform solution
 into 2 mL glass vials (6 vials total)
@@ -109,7 +108,7 @@ foil and allow to evacuate overnight in fume hood (~6-8 hours).
       particles from contaminating the POPC/Cholesterol/Lyss-Rhod-PE
       as it evaporates.
 
-4. Move vials to vacuum chamber and vacuum for an additional 2 hours..
+4. Move vials to vacuum chamber and vacuum for an additional 2 hours.
 
 5. Store in -20 degC.
 
@@ -136,11 +135,11 @@ foil and allow to evacuate overnight in fume hood (~6-8 hours).
 
 ## Step 2: Self-assembly of the Liposomes by centrifugation
 
-1. Place 225 μL of centrifuge buffer (100 mM HEPES + 200 mM glucose,
+1. Place 225 uL of centrifuge buffer (100 mM HEPES + 200 mM glucose,
    pH 8) into a labeled eppendorf tube.
 
-    a. **Note**: When IVTL systems are used, the outer solution should
-    also contain the small molecular weight components of the IVTL
+    a. **Note**: When TX-TL systems are used, the outer solution should
+    also contain the small molecular weight components of the TX-TL
     system.
 
 2. Add in 30 uL of inner solution (100 mM HEPES, 200 mM sucrose pH 8,
@@ -148,10 +147,10 @@ foil and allow to evacuate overnight in fume hood (~6-8 hours).
    or calcein.) to 500 uL of suspended lipid in oil from Step
    1. Vortex for 30 s. Equilibrate for 10 min at 4 degC.
 
-    * **Note**: When IVTL systems are used, buffer is omitted. IVTLs
-    come with their own buffers.
+    * **Note**: When TX-TL systems are used, buffer is omitted. TX-TL
+    systems come with their own buffers.
 
-3. Add the emulsion on top of the 225 μL centrifuge buffer by
+3. Add the emulsion on top of the 225 uL centrifuge buffer by
 pipetting against the wall of the tube, wait at least 1 minute for the
 interface to stabilize and flatten between the emulsion and buffer
 
@@ -166,7 +165,7 @@ interface to stabilize and flatten between the emulsion and buffer
     * **Note: **The goal is to remove as much oil up to the interface
     without disturbing the buffer below.
 
-6. Place 225 μL of wash buffer (100 mM HEPES + 250 mM glucose, pH 8)
+6. Place 225 uL of wash buffer (100 mM HEPES + 250 mM glucose, pH 8)
    into a labeled eppendorf tube.
 
 7. Add the centrifuge buffer (where the vesicles should have formed)
@@ -180,21 +179,15 @@ interface to stabilize and flatten between the emulsion and buffer
 
 8. Centrifuge at 12000 rcf at 4 degC  for 5 min
 
-9. Transfer 225uL from the bottom of the eppendorf tubes with wash
+9. Transfer 225 uL from the bottom of the eppendorf tubes with wash
    buffer into a new labeled eppendorf tube.
-
-10. Add 10 μL of solution to 10 μL of final buffer (50 mM HEPES + 300
-    mM glucose, pH 8), careful not to touch the sides of tube If the
-    bottom buffer is already HEPES, then there is no need for buffer
-    change.  Is there an obvious reason to not directly go into the
-    desired buffer?
 
 ## Step 3: Microscopy Visualization
 
 1. Use Frameseal or Spacer (20 mm D x 0.12 mm depth) to make a small
    chamber on a microscope slide.
 
-2. Add 10 μL of the final solution to the chamber and seal with cover slip
+2. Add 10 uL of the final solution to the chamber and seal with cover slip
 
 3. Wait 5 minutes before imaging (since the liposomes will float
    everywhere and can be tricky to catch them).
