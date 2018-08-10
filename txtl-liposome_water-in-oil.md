@@ -192,7 +192,7 @@ interface to stabilize and flatten between the emulsion and buffer
 3. Wait 5 minutes before imaging (since the liposomes will float
    everywhere and can be tricky to catch them).
 
-4. Observe on microscope. [Sample images] of what you should see:
+4. Observe on an inverted microscope. [Sample images] of what you should see:
 
 ### Alternative method (neha): 
 
