@@ -89,3 +89,16 @@ Milena Popovic (Blue Marble Space)
 Kazhito Tabata
 Joseph Heili, University of Minnesota
 Paola
+
+## Further readings
+
+To know more about general liposomes protocols:
+
+- [Szoka, F.; Papahadjopoulos, D. Comparative properties and methods of preparation of lipid vesicles (liposomes). Annu. Rev. Biophys. Bioeng. 1980, 9, 467–508](https://www.annualreviews.org/doi/abs/10.1146/annurev.bb.09.060180.002343)
+- [New, R. R. C. Liposomes. A practical approach.; 1st Edition.; IRL Press at Oxford University Press: Oxford, 1990](https://www.amazon.com/Liposomes-Practical-Approach/dp/0199630771)
+- [Walde, P. Preparation of Vesicles (Liposomes) ASP Encyclopedia of Nanoscience and Nanotechnology (2003), Ed. H. S. Nalwa, Vol. 9, 43-79](http://www.aspbs.com/enna-z.html)
+- [Walde, P.; Cosentino, K.; Hengel, H.; Stano, P. Giant Vesicles: Preparations and Applications.  ChemBioChem 2010, 11, 848-865](https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.201000010)
+
+
+
+
