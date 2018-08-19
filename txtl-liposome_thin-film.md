@@ -44,7 +44,7 @@ Final reaction conditions:
 
 | Reagent | Source | Final working concentration |
 | ------- | ------ | --------------------------- |
-| DOPC    | Avanti 850375C | 2.5 E -5 mols/vial (1 mL of hydration yields 20 mM vesicles)* |
+| DOPC    | Avanti 850375C | 2E-5 mols/vial (1 mL of hydration yields 20 mM vesicles)* |
 | Rhodamine Lissamine PE | Avanti 810150 C | 0.1 mol % of POPC |
 | Cholesterol | Santa Cruz Biotech sc-202539 | 2X molarity of DOPC, if used |
 
@@ -52,9 +52,9 @@ Final reaction conditions:
 
 ### Step 1: Prepare DOPC films (2.5E-4 mols DOPC/vial)
 
-1. Determine the volume and molarity DOPC vesicles you want to create
-   ex: 1 mL of 20 mM DOPC vesicles = 2.5E-5 mols of DOPC. The stock of
-   DOPC is 25 mg/mL. To make giant, nice looking vesicles, it’s best
+1. Determine the volume and molarity DOPC vesicles you want to create,
+   e.g. 1 mL of 20 mM DOPC vesicles = 2E-5 mols of DOPC. The stock of
+   DOPC is 25 mg/mL. To make giant, nice looking vesicles, it is best
    to prepare a more dilute sample of vesicles (like 200 uM). For
    small unilamellar vesicles, you can work with much higher
    concentrations of lipids (we can go up to 130 mM for DOPC)
@@ -75,7 +75,7 @@ Final reaction conditions:
 6. Place the vial into a vacuum chamber for > 1 hrs or leave overnight
    in order to remove all residual traces of solvent. *Removal of
    residual chloroform from the lipid film is very important for high
-   quality vesicles
+   quality vesicles.*
 
 7. Cap and store vials in freezer until ready to be used and hydrate
    with 1 mL of aqueous hydration buffer when you are ready to prepare
@@ -83,7 +83,7 @@ Final reaction conditions:
 
 ### Step 2: Hydrate films and extrude vesicles
 
-1. Add 1 mL of PBS to each vial, place in 60°C oven for 1 hr, then
+1. Add 1 mL of PBS to each vial, place in 60 degC oven for 1 hr, then
    vortex 10 seconds. Lipids should easily assemble. If clumps or
    aggregates persist after several vortexing attempts, this is often
    a sign something went wrong in vesicle assembly. The heating step
