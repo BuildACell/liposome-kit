@@ -55,10 +55,10 @@ rather then lipid films lies in the higher entrapment rate.
 
 ### Danelon et al, Angew. Chem. Int. Ed, 2012
 
-A method for hydration of a lipid film stratified over glass beads has
+A method for hydration of a lipid film stratified over 0.2 mm glass beads has
 been described by [Danelon et al, Angew. Chem. Int. Ed,
 2012](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201107123);
-similar experiments (not referred to TX-TL reactions) can be found in an [MDPI Life
+similar experiments (not referred to TX-TL reactions, and using 2 mm glass beads) can be found in an [MDPI Life
 paper](http://www.mdpi.com/2075-1729/5/1/969).
 
 ### Spencer et al, JoVE, 2013
