@@ -13,7 +13,7 @@ The first strategy leads to samples composed only by lipids and the aqueous phas
 
 We can distringuish three variants to this somehow "classical" preparation method.
 1. hydration of a dry lipid film stratified inside a glass vial
-2. hydration of a dry lipid film stratified on the surface of glass beads (diam. ca. 1 mm)
+2. hydration of a dry lipid film stratified on the surface of glass beads (diam. 0.2-2 mm)
 3. hydration of freeze-dried liposomes
 
 The first two variants lead to liposome from multi-layer lipid lamellae deposited over the glass surface of a glass vial or of glass beads. To prepare the film, just let a chloroform solution of lipids evaporate. The third variant starts from freeze-dried liposomes. To prepare freeze-dried liposomes (sometimes referred to as "liposome cake"), liposomes must be firstly prepared by another method (e.g., hydration of lipid film), possibly extruded, then freeze-dried.
