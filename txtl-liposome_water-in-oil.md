@@ -130,7 +130,7 @@ foil and allow to evacuate overnight in fume hood (~6-8 hours).
 
 7. Sonicate in an heated water bath for 30 minutes,at 60 degC .
 
-![GitHub Logo](https://github.com/zjuradoq/liposome-kit/blob/master/20180201_115921.jpg)
+![Resuspended lipipd](https://github.com/zjuradoq/liposome-kit/blob/master/20180201_115921.jpg)
 
     a. **Note:** If a sonicator is unavailable then repeat 60 degC
     incubation and vortexing until the lipid is completely dissolved.
@@ -160,6 +160,8 @@ interface to stabilize and flatten between the emulsion and buffer
 
     * **Note:** If the top phase (oil) is clear, that suggests that
       droplets have passed into the bottom buffer, becoming vesicles.
+
+![After centrifuged](https://github.com/zjuradoq/liposome-kit/blob/master/20180209_155820.jpg)
 
 5. Carefully remove as much mineral oil as possible with a
    gel-loading-pipette-tip from the top.
@@ -194,7 +196,8 @@ interface to stabilize and flatten between the emulsion and buffer
 3. Wait 5 minutes before imaging (since the liposomes will float
    everywhere and can be tricky to catch them).
 
-4. Observe on an inverted microscope. [Sample images] of what you should see:
+4. Observe on an inverted microscope. Potential vesicles (left-Bright field and right-GFP) of what you should see:
+![Potential Lipsomes](https://github.com/zjuradoq/liposome-kit/blob/master/Vesicles.png)
 
 ### Alternative method (neha): 
 
