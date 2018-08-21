@@ -93,8 +93,8 @@ Final reaction conditions:
 2. Extrude films at room temperature through 100 nm polycarbonate
    membranes using a mini extruder and heating block described on the
    [Avanti
-   website](https://avantilipids.com/divisions/equipment-products/mini-extruder-assembly-instructions)
-   follow the procedure described
+   website](https://avantilipids.com/divisions/equipment-products/mini-extruder-assembly-instructions),
+   following the procedure described
    [here](https://avantilipids.com/divisions/equipment-products/mini-extruder-extrusion-technique)
    (7 passes through membrane is fine, 9-11 is better, more than that
    is unnecessary according to my post extrusion analysis of vesicle
@@ -102,8 +102,14 @@ Final reaction conditions:
    through the membrane so no vesicles that have never passed through
    the membrane end up in the final sample.
 
+   * Note: additional information on this step is available in section
+     3 of step 7 in the [JoVE protocol on fatty acid-containing
+     liposomes](https://www.jove.com/video/57324/preparation-purification-and-use-of-fatty-acid-containing-liposomes).
+
 ### Step 3: Purify vesicles if hydration buffer contained a dye or solute (ex. calcein)
 
-1. Set up columns containing 6 mLs of Sepharose 4B (size exclusion
-   column media). Purification should be conducted on the same day as
-   a subsequent assay.
+1. Set up columns (e.g. [Bio-Rad Poly-Prep chromatography
+   columns](http://www.bio-rad.com/en-us/sku/7311553-poly-prep-chromatography-columns-pkg-1-000?ID=7311553))
+   containing 6 mLs of Sepharose 4B (size exclusion column
+   media). Purification should be conducted on the same day as a
+   subsequent assay.
