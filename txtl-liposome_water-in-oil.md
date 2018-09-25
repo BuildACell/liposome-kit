@@ -162,7 +162,7 @@ interface to stabilize and flatten between the emulsion and buffer
 
 ![Stablized emulsion and mineral oil interface, prior to creating of bilayer vesicles.](https://github.com/zjuradoq/liposome-kit/blob/master/Step2_CentrifugeLayer.jpg)
 
-4. Centrifuge at 18000 rcf at 4 degC  for 15 min  
+4. Centrifuge at 16000 rcf at 4 degC  for 8 min  
 
     * **Note:** If the top phase (oil) is clear, that suggests that
       droplets have passed into the bottom buffer, becoming vesicles.
