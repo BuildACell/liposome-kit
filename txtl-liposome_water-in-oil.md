@@ -112,6 +112,8 @@ foil and allow to evacuate overnight in fume hood (~6-8 hours).
 
 5. Store in -20 degC.
 
+![Lipid film preparation](https://github.com/zjuradoq/liposome-kit/blob/master/Step0_LipidFilm.jpg)
+
 **Note:** Remaining POPC in chloroform, cholesterol, and  Lyss-Rho-PE in chloroform can be stored at -20 degC in the glass vial with PTFE caps and sealed parafilm.
 
 ## Step 1: Preparation of the oil containing lipids
@@ -130,6 +132,8 @@ foil and allow to evacuate overnight in fume hood (~6-8 hours).
 
 7. Sonicate in an heated water bath for 30 minutes,at 60 degC .
 
+![Lipid resuspended in 0.5 mL mineral oil](https://github.com/zjuradoq/liposome-kit/blob/master/Step1_ResuspendLipidFilm.jpg)
+
     a. **Note:** If a sonicator is unavailable then repeat 60 degC
     incubation and vortexing until the lipid is completely dissolved.
 
@@ -146,6 +150,8 @@ foil and allow to evacuate overnight in fume hood (~6-8 hours).
    and, if needed, 2 uM of a water-soluble fluorescent dye like HPTS
    or calcein.) to 500 uL of suspended lipid in oil from Step
    1. Vortex for 30 s. Equilibrate for 10 min at 4 degC.
+   
+   ![Internal solution emulsion with mineral oil, monolayer vesicles.](https://github.com/zjuradoq/liposome-kit/blob/master/Step2_LipidEmulsion.jpg)
 
     * **Note**: When TX-TL systems are used, buffer is omitted. TX-TL
     systems come with their own buffers.
@@ -154,10 +160,14 @@ foil and allow to evacuate overnight in fume hood (~6-8 hours).
 pipetting against the wall of the tube, wait at least 1 minute for the
 interface to stabilize and flatten between the emulsion and buffer
 
-4. Centrifuge at 18000 rcf at 4 degC  for 15 min  
+![Stablized emulsion and mineral oil interface, prior to creating of bilayer vesicles.](https://github.com/zjuradoq/liposome-kit/blob/master/Step2_CentrifugeLayer.jpg)
+
+4. Centrifuge at 16000 rcf at 4 degC  for 8 min  
 
     * **Note:** If the top phase (oil) is clear, that suggests that
       droplets have passed into the bottom buffer, becoming vesicles.
+
+![Formation of bilayer vesicles, and phase separation of oil, free lipids, vesicles, and buffer solutions.](https://github.com/zjuradoq/liposome-kit/blob/master/Step2_WashVesicles.jpg)
 
 5. Carefully remove as much mineral oil as possible with a
    gel-loading-pipette-tip from the top.
@@ -181,7 +191,8 @@ interface to stabilize and flatten between the emulsion and buffer
 
 9. Transfer 225 uL from the bottom of the eppendorf tubes with wash
    buffer into a new labeled eppendorf tube.
-
+   
+![Final solution of vesicles and buffer solution. Will be used in mircoscopy step.](https://github.com/zjuradoq/liposome-kit/blob/master/Step2_FinalVesicles.jpg)
 ## Step 3: Microscopy Visualization
 
 1. Use Frameseal or Spacer (20 mm D x 0.12 mm depth) to make a small
@@ -192,7 +203,8 @@ interface to stabilize and flatten between the emulsion and buffer
 3. Wait 5 minutes before imaging (since the liposomes will float
    everywhere and can be tricky to catch them).
 
-4. Observe on an inverted microscope. [Sample images] of what you should see:
+4. Observe on an inverted microscope. Potential vesicles of what you should see using 40X magnification:
+![Bright-field, GFP, and RFP overlay from 40X mag images of potential vesicles](https://github.com/zjuradoq/liposome-kit/blob/master/Adapt_overlay.JPG)
 
 ### Alternative method (neha): 
 
