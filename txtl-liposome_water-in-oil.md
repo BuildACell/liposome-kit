@@ -210,3 +210,6 @@ interface to stabilize and flatten between the emulsion and buffer
 * Rinse with PBS 3X. Add 0.5 mL of final buffer from above to
   chamber. Add 10 uL of vesicle sample to chamber, let settle over a
   few minutes. Image on scope with green and red channels.
+  
+  ### Acknowledgments: 
+  This work was possible thank to NSF Research Coordination Network, award number 1901145.
