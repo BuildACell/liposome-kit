@@ -13,7 +13,9 @@ Richard Murray (Caltech),
 Milena Popovic (Blue Marble Space),
 Pasquale Stano (University of Salento),
 Kazhito Tabata (University of Tokyo),
-Paola Torre (University of Pennsylvania).
+Paola Torre (University of Pennsylvania)
+Richard Murray (Caltech)
+Kate Adamala (University of Minnesota)
 
 ## Overview and Materials
 
