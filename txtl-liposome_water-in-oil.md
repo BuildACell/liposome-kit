@@ -1,5 +1,7 @@
 # TX-TL Liposome Using Water-in-Oil Emulsion
 
+**Note: an updated version of this protocol can be found on the [Nucleus container protocols](https://nucleus.bnext.bio/container-protocols) website,**
+
 Version 0.1.0, 8 August 2018
 
 Contributors:
